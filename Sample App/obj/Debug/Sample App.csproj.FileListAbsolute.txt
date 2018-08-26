@@ -1,0 +1,10 @@
+c:\users\syler\source\repos\Sample App\Sample App\bin\Debug\Sample App.exe.config
+c:\users\syler\source\repos\Sample App\Sample App\bin\Debug\Sample App.exe
+c:\users\syler\source\repos\Sample App\Sample App\bin\Debug\Sample App.pdb
+c:\users\syler\source\repos\Sample App\Sample App\obj\Debug\Sample App.csprojAssemblyReference.cache
+c:\users\syler\source\repos\Sample App\Sample App\obj\Debug\Sample_App.Properties.Resources.resources
+c:\users\syler\source\repos\Sample App\Sample App\obj\Debug\Sample App.csproj.GenerateResource.cache
+c:\users\syler\source\repos\Sample App\Sample App\obj\Debug\Sample App.csproj.CoreCompileInputs.cache
+c:\users\syler\source\repos\Sample App\Sample App\obj\Debug\Sample App.exe
+c:\users\syler\source\repos\Sample App\Sample App\obj\Debug\Sample App.pdb
+C:\Users\syler\source\repos\Sample App\Sample App\obj\Debug\Sample_App.Form1.resources
